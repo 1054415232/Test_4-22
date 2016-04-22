@@ -19,7 +19,7 @@ public class TestDemo {
 			}
 			System.out.print(a[i]+" ");
 		}
-
+    System.out.println("这是第二个版本");
 	}
 
 }
